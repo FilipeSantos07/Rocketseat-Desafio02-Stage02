@@ -142,19 +142,20 @@ footer p, footer p a {
         flex-direction: column;
     }
     main section h1 {
-        font-size: 55px;
+        font-size: 53px;
     }
     main section p {
         font-size: 20px;
     }
     main section button {
-        width: 179px;
-        height: 56px;    
+        width: 226px;
+        height: 74px;    
         margin: 50px auto 0 auto; 
-        padding: 20px;  
+        padding: 30px; 
+        font-size: 21px; 
     }
     main section button img {
-        width: 24px;
+        width: 32px;
     }
     main img {
         width: 100%;
