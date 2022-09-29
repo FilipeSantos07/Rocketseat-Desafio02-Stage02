@@ -53,7 +53,7 @@ main {
     justify-content: space-between;
     margin-bottom: 72px;
 }
-main img {
+main img:nth-child(2) {
     animation: fromLeft 1.2s;
 }
 main section h1 {
