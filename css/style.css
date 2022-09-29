@@ -134,6 +134,9 @@ footer p, footer p a {
     body {
         text-align: center;
     }
+    nav {
+        margin-bottom: 40px;
+    }
     nav ul {
         gap: 30px;
         margin-left: 20px;
@@ -142,7 +145,7 @@ footer p, footer p a {
         flex-direction: column;
     }
     main section h1 {
-        font-size: 53px;
+        font-size: 50px;
     }
     main section p {
         font-size: 20px;
@@ -158,7 +161,7 @@ footer p, footer p a {
         width: 32px;
     }
     main img {
-        width: 100%;
+        width: 90%;
     }
     footer p, strong {
         font-size: 18px;
