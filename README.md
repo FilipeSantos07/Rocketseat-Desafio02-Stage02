@@ -4,7 +4,7 @@
 
 > Trilha Explorer
 
-Mais um projeto da Rocketseat da trilha Explorer. Uma landing page simples porém linda demais, aprendi muita coisa legal. Por fora eu adicionei animações e responsividade ao projeto. Utilizamos o figma para criar.
+Esse foi o segundo projeto da trilha Explorer da Rocketseat. Uma landing page simples porém muito bonita. Utilizamos o figma para fazer esse projeto. E o desafio foi deixar tudo certinho, pois propositalmente nos deram o projeto todo bagunçado, e tivemos que arrumar tudinho. Por fora eu adicionei animations, transitions, transformations e responsividade. 
 
 [🔗 Clique aqui para acessar](https://filipesantos07.github.io/Rocketseat-Desafio02-Stage02/)
 
