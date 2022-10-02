@@ -15,4 +15,4 @@ Esse foi o segundo projeto da trilha Explorer da Rocketseat. Uma landing page si
 
 ## 💛 Contato
 
-outerspaceguy@live.co.uk
+FilipeSantosEstudos1@gmail.com
